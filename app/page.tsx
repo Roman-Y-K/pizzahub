@@ -28,8 +28,7 @@ export default function Home() {
                     id: 1,
                     name: 'Carbonara',
                     price: 10,
-                    imageUrl:
-                      'https://media.dodostatic.net/image/r:292x292/0197d0d4283575589ff0032eadd7cb68.jpg',
+                    imageUrl: '/images/pizzas/pepperoni-fresh.png',
                     className: '',
                     items: [{ price: 10 }],
                   },
@@ -37,8 +36,7 @@ export default function Home() {
                     id: 2,
                     name: 'Salami',
                     price: 10,
-                    imageUrl:
-                      'https://media.dodostatic.net/image/r:292x292/0197d0f934c372c3b17f812f340dc1ca.jpg',
+                    imageUrl: '/images/products/omelet-ham-mushrooms.png',
                     className: '',
                     items: [{ price: 10 }],
                   },
@@ -46,8 +44,7 @@ export default function Home() {
                     id: 3,
                     name: 'Margarita',
                     price: 10,
-                    imageUrl:
-                      'https://media.dodostatic.net/image/r:292x292/11ee7d610d2925109ab2e1c92cc5383c.jpg',
+                    imageUrl: '/images/products/omelet-ham-mushrooms.png',
                     className: '',
                     items: [{ price: 10 }],
                   },
@@ -55,8 +52,7 @@ export default function Home() {
                     id: 4,
                     name: 'Napolitano',
                     price: 10,
-                    imageUrl:
-                      'https://media.dodostatic.net/image/r:292x292/019591b642d87304a62d322945990861.jpg',
+                    imageUrl: '/images/products/omelet-ham-mushrooms.png',
                     className: '',
                     items: [{ price: 10 }],
                   },
@@ -71,8 +67,7 @@ export default function Home() {
                     id: 1,
                     name: 'Carbonara',
                     price: 10,
-                    imageUrl:
-                      'https://media.dodostatic.net/image/r:292x292/0197d0d4283575589ff0032eadd7cb68.jpg',
+                    imageUrl: '/images/products/omelet-ham-mushrooms.png',
                     className: '',
                     items: [{ price: 10 }],
                   },
@@ -80,8 +75,7 @@ export default function Home() {
                     id: 2,
                     name: 'Salami',
                     price: 10,
-                    imageUrl:
-                      'https://media.dodostatic.net/image/r:292x292/0197d0f934c372c3b17f812f340dc1ca.jpg',
+                    imageUrl: '/images/products/omelet-ham-mushrooms.png',
                     className: '',
                     items: [{ price: 10 }],
                   },
@@ -89,8 +83,7 @@ export default function Home() {
                     id: 3,
                     name: 'Margarita',
                     price: 10,
-                    imageUrl:
-                      'https://media.dodostatic.net/image/r:292x292/11ee7d610d2925109ab2e1c92cc5383c.jpg',
+                    imageUrl: '/images/products/omelet-ham-mushrooms.png',
                     className: '',
                     items: [{ price: 10 }],
                   },
@@ -98,8 +91,7 @@ export default function Home() {
                     id: 4,
                     name: 'Napolitano',
                     price: 10,
-                    imageUrl:
-                      'https://media.dodostatic.net/image/r:292x292/019591b642d87304a62d322945990861.jpg',
+                    imageUrl: '/images/products/omelet-ham-mushrooms.png',
                     className: '',
                     items: [{ price: 10 }],
                   },
