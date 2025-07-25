@@ -5,6 +5,7 @@ import { ArrowRight, User, ShoppingCart } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { Container } from '@/components/shared/Container';
 import { Button } from '@/components/ui/button';
+import { SearchInput } from '@/components/shared/SearchInput';
 
 interface Props {
   className?: string;
@@ -20,6 +21,10 @@ export const Header: React.FC<Props> = ({ className }) => {
             <h1 className="text-2xl uppercase font-black">PizzaHub</h1>
             <p className="text-sm text-gray-400 leading-3">Taste Lives Here</p>
           </div>
+        </div>
+
+        <div className="mx-10 flex-1">
+          <SearchInput />
         </div>
         <div className="flex items-center gap-3">
           <Button variant="outline">
